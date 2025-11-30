@@ -1,2 +1,9 @@
 # mini-portfolio-html
 A simple HTML portfolio demo.
+
+---
+
+# ✅ **Repo 2: mini-portfolio-html**
+**Description:** A super simple HTML portfolio page.
+
+### **README.md**
